@@ -1,0 +1,44 @@
+.middle3{
+	float: left;
+	/*margin-top: 20px;*/
+	height: 1030px;
+	width: 100%;
+	background-color: #f0f3ef;
+}
+.middle3-1{
+	height: 100px;
+	width: 80%;
+	/*background-color: pink;*/
+}
+.middle3-1 h2{
+	/*text-align: center;*/
+	font-size: 32px;
+	font-weight: normal;
+	float: left;
+	margin-left: 51.5%;
+	margin-top: 30px;
+}
+.middle3-2{
+	height: 460px;
+	width: 80%;
+	margin: 0 auto;
+	/*background-color: red;*/
+}
+.middle3-2 img{
+	float: left;
+	margin: 0 auto;
+	margin-left: 1%;
+}
+.middle3-3{
+	height: 460px;
+	width: 80%;
+	margin: 0 auto;
+	/*background-color: yellow;*/
+	margin-top: 10px;
+}
+.middle3-3 img{
+	float: left;
+	margin: 0 auto;
+	margin-left: 1%;
+}
+

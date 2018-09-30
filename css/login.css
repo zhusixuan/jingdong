@@ -1,0 +1,227 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+a{
+	text-decoration: none;
+}
+.one{
+	width: 100%;
+	height: 85px;
+	background-color: #ffffff;
+}
+.one .one1{
+	width: 25%;
+	height: 70px;
+	/*border: 1px solid red;*/
+	float: left;
+	margin-left: 20%;
+}
+.one .one2{
+	width: 13%;
+	height: 25px;
+	/*border: 1px solid red;*/
+	float: right;
+	margin-right: 10%;
+	margin-top: 45px;
+}
+.one2 a{
+	text-decoration: none;
+	color: #999999;
+}
+.one2 img{
+	float: left;
+}
+.one2 .ff{
+	float: left;
+}
+.two{
+	width: 100%;
+	height: 50px;
+	background-color: #fff8f0;
+}
+.two img{
+	float: left;
+	margin-left: 15%;
+	margin-top: 10px;
+}
+.two span{
+	float: left;
+	margin-top: 13px;
+	margin-left: 0.2%;
+	color: #999999;
+}
+.two  a{
+	text-decoration: none;
+	color: #333333;
+}
+.three{
+	width: 100%;
+	height: 590px;
+	background-color: #ff9e01;
+}
+.three .three1 img{
+	float: left;
+	margin-left: 15%;
+}
+.three2{
+	margin-top: 50px;
+	float: left;
+	width: 23%;
+	height: 450px;
+	background-color: #ffffff;
+}
+.three2 .three2-1{
+	width: 100%;
+	height: 40px;
+	/*border: 1px solid red;*/
+	background-color: #fff8f0;
+}
+.three2 .three2-1 img{
+	width: 345px;
+	height: 30px;
+	float: left;
+	margin-top: 5px;
+}
+.three2 .three2-2{
+	width: 100%;
+	height: 60px;
+	/*border: 1px solid yellow;*/
+	/*background-color: yellow;*/
+}
+.three2-2 .three2-21{
+	float: left;
+	margin-left: 15%;
+	margin-top: 20px;
+}
+.three2-2 .three2-21 a{
+	color: #e4393c;
+	font-size: 18px;
+}
+.three2-2 .three2-22{
+	float: right;
+	margin-right: 15%;
+	margin-top: 20px;
+}
+.three2-2 .three2-22 a{
+	color: #747774;
+	font-size: 18px;
+}
+.three2 .three2-3{
+	width: 100%;
+	height: 200px;
+	/*border: 1px solid red;*/
+}
+.three2 .three2-3 img{
+	float: left;
+	width: 140px;
+	height: 140px;
+	margin-left: 29.5%;
+	margin-top: 30px;
+}
+.three2 .three2-4{
+	width: 100%;
+	height: 50px;
+	/*border: 1px solid blue;*/
+}
+.three2 .three2-4 .three2-41{
+	float: left;
+	margin-left: 20%;
+	margin-top: 2px;
+}
+.three2 .three2-4 .three2-42{
+	float: right;
+	margin-right: 20%;
+	margin-top: 2px;
+}
+.three2 .three2-4 span{
+	color: #666666；
+}
+.three2 .three2-4 .three2-41 a{
+	color: #e4393c;
+}
+.three2 .three2-5{
+	width: 100%;
+	height: 50px;
+	/*border: 1px solid green;*/
+}
+.three2 .three2-6{
+	width: 100%;
+	height: 40px;
+	/*border: 1px solid red;*/
+}
+.three2 .three2-61 img{
+	width: 30px;
+	height: 30px;
+	float: left;
+	margin-top: 5px;
+}
+.three2 .three2-61 .three2-611 .gg{
+	float: left;
+	margin-top: 7px;
+	margin-left: 3%;
+	margin-right: 2%;
+}
+.three2 .three2-61 a{
+	float: left;
+	margin-top: 8px;
+}
+.three2 .three2-61 .rr{
+	margin-left: 15px;
+}
+.three2 .three2-62 .hh{
+	width: 30px;
+	height: 30px;
+	float: right;
+	margin-right: 24%;
+	margin-top: 4px;
+}
+.three2 .three2-62 .kk{
+	float: right;
+	margin-right: -26%;
+	margin-top: 9px;
+}
+.four{
+	width: 100%;
+	height: 100px;
+	background-color: yellow;
+}
+.four .four1{
+	width: 100%;
+	height: 50px;
+	/*border: 1px solid red;*/
+	/*background-color: green;*/
+	float: left;
+}
+.four .four1 a{
+	float: left;
+	/*margin-top: 1px;*/
+	color: #666666;
+}
+.four .four1 .four1-1{
+	width: 100%;
+	height: 50px;
+	float: left;
+	margin-top: 20px;
+	text-align: center;
+}
+.four .four1 span{
+	float: left;
+	/*margin-top: 1px;*/
+	color: #666666;
+}
+.four .four1 .uu{
+	float: left;
+	/*margin-top: 5px;*/
+	margin-left: 21.5%;
+}
+.four .four2{
+	width: 100%;
+	height: 50px;
+	float: left;
+}
+.four .four2{
+	/*margin-left: 25%;*/
+	text-align: center;
+	color: #666666;
+}

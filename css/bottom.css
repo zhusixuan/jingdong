@@ -1,0 +1,132 @@
+.bottom{
+	float: left;
+	height: 550px;
+	width: 100%;
+	background: #f0f3ef;
+}
+.bottom1{
+	height: 100px;
+	width: 80%;
+	/*background-color: green;*/
+	margin: 0 auto;
+}
+.bottom1 img{
+	float: left;
+	margin-left: 1.5%;
+}
+
+.bottom2{
+	margin-top: 20px;
+	height: 190px;
+	width: 80%;
+	/*background-color: pink;*/
+	margin: 0 auto;
+}
+.bottom2 .bottom2-1{
+	margin-top: 15px;
+	float: left;
+	margin-left: 1%;
+}
+.bottom2 a ,h3{
+	color: #666666;
+}
+.bottom2 li{
+	font-size: 13px;
+	margin-top: 5px;
+
+}
+.bottom2 .bottom2-2{
+	margin-top: 15px;
+	float: left;
+	margin-left: 10%;
+}
+.bottom2 .bottom2-3{
+	margin-top: 15px;
+	float: left;
+	margin-left: 10%;
+}
+.bottom2 .bottom2-4{
+	float: left;
+	margin-top: 15px;
+	margin-left: 10%;
+}
+.bottom2 .bottom2-5{
+	margin-top: 15px;
+	float: left;
+	margin-left: 10%;
+}
+.bottom2 .ditu{
+	margin-top: 15px;
+	float: left;
+	margin-left: 6%;
+}
+.bottom2 thead{
+	float: left;
+}
+.bottom3{
+	height: 160px;
+	width: 80%;
+	/*background: pink;*/
+	margin: 0 auto;
+}
+.bottom3 .bottom3-1{
+	float: left;
+	margin-top: 6px;
+	margin-left: 4%;
+}
+.bottom3 span{
+	font-size: 14px;
+	color: #666666;
+}
+.bottom3-1 a{
+	color: #666666;
+}
+.bottom3-2{
+	margin-top: 10px;
+	margin-left: 11%;
+	float: left;
+}
+.bottom3-2 a{
+	color: #999999;
+}
+.bottom3-3{
+	margin-top: 3px;
+	margin-left: 7.8%;
+	float: left;
+}
+.bottom3-3 a{
+	color: #999999;
+}
+.bottom3-4{
+	margin-top: 3px;
+	margin-left: 14%;
+	float: left;
+}
+.bottom3-4 a{
+	color: #999999;
+}
+.bottom3-5 img{
+	margin-left: 21.5%;
+}
+.bottom3-6{
+	margin-top: -6px;
+	margin-left: 37%;
+	float: left;
+}
+.bottom3-6 a{
+	color: #999999;
+}
+.bottom4{
+	height: 80px;
+	width: 80%;
+	/*background-color: red;*/
+	margin: 0 auto;
+}
+.bottom4 img{
+	float: left;
+	margin: 0 auto;
+}
+.bottom4 .img1{
+	margin-left: 21%;
+}
+

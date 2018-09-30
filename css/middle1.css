@@ -1,0 +1,82 @@
+
+.middle1{
+	margin-top: 0px;
+	width: 100%;
+	height: 1230px;
+	background: #f0f3ef;
+}
+/*中间第一部分顶部六个图片	*/
+.middle1 .middle1-1{
+	width: 80%;
+	height: 300px;
+	/*background-color: pink;*/
+	margin: 0 auto;
+}
+/*中间第一部分中部*/
+.middle1 .middle1-2{
+	width: 80%;
+	height: 472px;
+	/*background-color: yellow;*/
+	margin: 0 auto;
+}
+.middle1 .middle1-2 .middle1-2-1{
+	float: left;
+	width: 33%;
+	height: 472px;
+	/*background-color: #f7f7f7;*/
+}
+.middle1 .middle1-2 .middle1-2-12{
+	margin:8px 5px;
+}
+.middle1 .middle1-2 .middle1-2-12 a{
+	text-decoration: none;
+	color: #666666;
+	margin-left: 2%;
+}
+.middle1 .middle1-2 .middle1-2-2{
+	/*clear: left;*/
+	float: left;
+	width: 33%;
+	height: 472px;
+	/*background-color: #ffffff;*/
+	margin-left: 0.5%;
+}
+.middle1 .middle1-2 .middle1-2-3{
+	/*clear: left;*/
+	float: left;
+	width: 33%;
+	height: 472px;
+	/*background-color: #ffffff;*/
+	margin-left: 0.5%;
+}
+/*中间第一部分底部 */
+.middle1 .middle1-3{
+	width: 80%;
+	height: 450px;
+	/*background-color: blue;*/
+	margin: 0 auto;
+}
+
+.middle1 .middle1-3 .middle1-3-1{
+	float: left;
+	width: 33.2%;
+	height:450px;
+	/*background-color: pink;*/
+	margin-left: 0.2%;
+}
+.middle1 .middle1-3 .middle1-3-2{
+	float: left;
+	width: 33.2%;
+	height:450px;
+	/*background-color: yellow;*/
+	margin-left: 0.2%;
+}
+.middle1 .middle1-3 .middle1-3-3{
+	float: left;
+	width: 33.2%;
+	height:450px;
+	/*background-color: red;*/
+}
+.middle1-3-3 img{
+	margin-left: 2.5%;
+}
